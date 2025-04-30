@@ -1,8 +1,13 @@
 streamlit
-langchain
-openai
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langchain-community>=0.0.13
+openai>=1.0.0
+faiss-cpu
 pandas
 matplotlib
 plotly
 python-dotenv
 pymupdf
+prophet
+python-dotenv
