@@ -1,0 +1,8 @@
+streamlit
+langchain
+openai
+pandas
+matplotlib
+plotly
+python-dotenv
+pymupdf
